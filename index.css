@@ -21,7 +21,7 @@ body {
   background-color: rgb(255, 255, 255, 0.95);
   border: 20px wheat;
   border-radius: 10px;
-  z-index: 10;
+  z-index: 20;
 }
 
 a {
@@ -44,7 +44,7 @@ a {
 
 .logo {
   position: relative;
-  padding-right: 400px;
+  padding-right: 370px;
   font-size: 45px;
   text-shadow: 5px 5px 0px #fff2d1;
   color: black;
@@ -247,11 +247,11 @@ span {
 }
 
 .para-04 {
-  position: absolute;
+  position: relative;
   width: 614px;
   height: 63px;
-  left: 1299px;
-  top: 1880px;
+  left: 379px;
+  top: -350px;
   font-family: Poly;
   font-style: normal;
   font-weight: normal;
@@ -260,4 +260,37 @@ span {
   letter-spacing: 0.2em;
   color: rgba(0, 0, 0, 0.15);
   transform: rotate(90deg);
+  z-index: 200;
+}
+
+.svg-07 {
+  position: relative;
+  top: 250px;
+  left: 100px;
+}
+
+.heading-01 {
+    position: absolute;
+    width: 328px;
+    height: 63px;
+    left: 900px;
+    top: 1669px;
+    z-index: 6;
+    font-family: Poller One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    line-height: 53px;
+    letter-spacing: 0.2em;
+    color: #000000;
+  }
+  
+.rectangle-07{
+    position: absolute;
+width: 254px;
+height: 33px;
+left: 944px;
+top: 1727px;
+
+background: #FFF2D1;
 }
