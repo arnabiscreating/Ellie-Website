@@ -5,7 +5,7 @@ I tried to give the website a very clean look and added some **urban / modern fl
 ## 🧮 The Tech Inside
 <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26">  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6">  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  <img src="https://img.shields.io/badge/SVG-20232A?style=for-the-badge&logo=SVG&logoColor=FFB13B">    
 ## :rocket: Website
-You can experience the website here. **|** [**Ellie Website**](https://encodearnab.github.io/Ellie-Website/)
+You can experience the website here. **//** [**Ellie Website**](https://encodearnab.github.io/Ellie-Website/)
 ## :art: Designs
 I designed the website on **Figma**. [You can see the designs here.](https://www.figma.com/file/mFAXEL3MfTh8XnXqMje4qC/Ellie?node-id=0%3A1)  
     
