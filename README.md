@@ -7,7 +7,7 @@ I tried to give the website a very clean look and added some **urban / modern fl
 ## :rocket: Website
 You can experience the website here. **//** [**Ellie Website**](https://encodearnab.github.io/Ellie-Website/)
 ## :art: Designs
-I designed the website on **Figma**. [You can see the designs here.](https://www.figma.com/file/mFAXEL3MfTh8XnXqMje4qC/Ellie?node-id=0%3A1)  
+I designed the website on **Figma**. **//** [You can see the designs here.](https://www.figma.com/file/mFAXEL3MfTh8XnXqMje4qC/Ellie?node-id=0%3A1)  
     
       
 [```Back to Top```](#)
