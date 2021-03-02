@@ -270,27 +270,27 @@ span {
 }
 
 .heading-01 {
-    position: absolute;
-    width: 328px;
-    height: 63px;
-    left: 900px;
-    top: 1669px;
-    z-index: 6;
-    font-family: Poller One;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 45px;
-    line-height: 53px;
-    letter-spacing: 0.2em;
-    color: #000000;
-  }
-  
-.rectangle-07{
-    position: absolute;
-width: 254px;
-height: 33px;
-left: 944px;
-top: 1727px;
+  position: absolute;
+  width: 328px;
+  height: 63px;
+  left: 900px;
+  top: 1669px;
+  z-index: 16;
+  font-family: Poller One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 45px;
+  line-height: 53px;
+  letter-spacing: 0.2em;
+  color: #000000;
+}
 
-background: #FFF2D1;
+.rectangle-07 {
+  position: relative;
+  width: 254px;
+  height: 33px;
+  left: 924px;
+  top: -440px;
+  background: #fff2d1;
+  z-index: 11;
 }
